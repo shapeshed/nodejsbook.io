@@ -132,7 +132,7 @@ tags:
     * What is middleware
     * An example - modifying headers
     * Uses for middleware
-*Chapter 24: node.js with backbone.js
+* Chapter 24: node.js with backbone.js
     * Introduction to backbone.js
     * Build models for the server and client
     * Synching changes between server and client
