@@ -34,6 +34,8 @@ tags:
 * [Kodfabrik][26]
 * [Guillermo Rauch][27]
 
+These links are also available [as a bundle][28] that you can add directly to Google Reader
+
 ## Books
 
 * [The Node Beginner Book][1]
@@ -70,3 +72,4 @@ tags:
 [25]: http://blog.izs.me/
 [26]: http://io.kodfabrik.com/
 [27]: http://devthought.com/
+[28]: http://www.google.co.uk/reader/bundle/user%2F09921663692746895687%2Fbundle%2Fnodejs%20Reading%20List
