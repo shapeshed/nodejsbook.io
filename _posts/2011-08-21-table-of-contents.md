@@ -77,7 +77,7 @@ tags:
     * What are websockets?
     * Sending data from the server to browsers
     * Sending data from the browser to the server
-*Chapter 13: A real-time chat server
+* Chapter 13: A real-time chat server
     * Creating a chat server
     * Implementing the server
     * Implementing the client
