@@ -8,10 +8,15 @@ tags:
 
 ## Videos
 
+* [node.js by Ryan Dahl][33]
+* [Introduction to Node.js with Ryan Dahl][9]
+* [Techniques for a single stack world by Ryan Dahl][33]
+* [node v0.5 Roadmap][35]
+* [Being Uber with node][36]
 * [Parallel Programming with node.js][6]
 * [Node.js: Asynchronous Purity Leads to Faster Development][7]
 * [SenchaCon 2010: Server-side JavaScript with Node, Connect & Express][8]
-* [Introduction to Node.js with Ryan Dahl][9]
+* [Rapid Realtime App Development with Node.JS & MongoDB][32]
 
 ## Blogs 
 
@@ -82,3 +87,8 @@ These links are also available [as a bundle][28] that you can add directly to Go
 [29]: http://nodeup.com/
 [30]: http://javascriptshow.com/
 [31]: http://tddjs.com/
+[32]: http://www.10gen.com/presentation/mongosf2011/nodejs
+[33]: http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html
+[34]: http://jsconf.eu/2010/speaker/techniques_for_a_single_stack.html
+[35]: http://ontwik.com/nodejs/nodeconf-2011-ryan-dahl/
+[36]: http://blip.tv/jsconf/nodeconf-2011-curtis-chambers-5455813
