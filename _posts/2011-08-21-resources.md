@@ -39,6 +39,7 @@ These links are also available [as a bundle][28] that you can add directly to Go
 ## Podcasts
 
 * [Node Up][29]
+* [The JavaScript Show][30]
 
 ## Books
 
@@ -47,6 +48,7 @@ These links are also available [as a bundle][28] that you can add directly to Go
 * [Node Web Development][3]
 * [Up and Running with Node.js][4]  
 * [Mastering Node][5]
+* [Test Driven JavaScript Development][31]
 
 
 [1]: http://nodebeginner.org/
@@ -78,3 +80,5 @@ These links are also available [as a bundle][28] that you can add directly to Go
 [27]: http://devthought.com/
 [28]: http://www.google.co.uk/reader/bundle/user%2F09921663692746895687%2Fbundle%2Fnodejs%20Reading%20List
 [29]: http://nodeup.com/
+[30]: http://javascriptshow.com/
+[31]: http://tddjs.com/
