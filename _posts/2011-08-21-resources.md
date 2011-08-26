@@ -18,7 +18,7 @@ tags:
 * [SenchaCon 2010: Server-side JavaScript with Node, Connect & Express][8]
 * [Rapid Realtime App Development with Node.JS & MongoDB][32]
 * [Being Uber with node][36]
-* [Node.js Meetup: Distributed Web Architectures – Curtis Chambers, Uber][37]
+* [Node.js Meetup: Distributed Web Architectures - Curtis Chambers, Uber][37]
 
 ## Blogs 
 
