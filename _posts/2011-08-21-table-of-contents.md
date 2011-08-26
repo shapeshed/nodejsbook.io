@@ -49,7 +49,7 @@ tags:
     * Authentication
 * Chapter 8: Persisting data 
     * Databases
-    * An example with MySQL
+    * An example with MongoDB
     * An example with CouchDB
     * An example with Redis
 
