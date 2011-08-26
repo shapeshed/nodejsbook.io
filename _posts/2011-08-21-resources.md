@@ -8,10 +8,17 @@ tags:
 
 ## Videos
 
+* [node.js by Ryan Dahl][33]
+* [Introduction to Node.js with Ryan Dahl][9]
+* [Techniques for a single stack world by Ryan Dahl][33]
+* [node v0.5 Roadmap][35]
+* [Node.js Joyent Videos][38]
 * [Parallel Programming with node.js][6]
 * [Node.js: Asynchronous Purity Leads to Faster Development][7]
 * [SenchaCon 2010: Server-side JavaScript with Node, Connect & Express][8]
-* [Introduction to Node.js with Ryan Dahl][9]
+* [Rapid Realtime App Development with Node.JS & MongoDB][32]
+* [Being Uber with node][36]
+* [Node.js Meetup: Distributed Web Architectures - Curtis Chambers, Uber][37]
 
 ## Blogs 
 
@@ -39,6 +46,7 @@ These links are also available [as a bundle][28] that you can add directly to Go
 ## Podcasts
 
 * [Node Up][29]
+* [The JavaScript Show][30]
 
 ## Books
 
@@ -47,6 +55,7 @@ These links are also available [as a bundle][28] that you can add directly to Go
 * [Node Web Development][3]
 * [Up and Running with Node.js][4]  
 * [Mastering Node][5]
+* [Test Driven JavaScript Development][31]
 
 
 [1]: http://nodebeginner.org/
@@ -78,3 +87,12 @@ These links are also available [as a bundle][28] that you can add directly to Go
 [27]: http://devthought.com/
 [28]: http://www.google.co.uk/reader/bundle/user%2F09921663692746895687%2Fbundle%2Fnodejs%20Reading%20List
 [29]: http://nodeup.com/
+[30]: http://javascriptshow.com/
+[31]: http://tddjs.com/
+[32]: http://www.10gen.com/presentation/mongosf2011/nodejs
+[33]: http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html
+[34]: http://jsconf.eu/2010/speaker/techniques_for_a_single_stack.html
+[35]: http://ontwik.com/nodejs/nodeconf-2011-ryan-dahl/
+[36]: http://blip.tv/jsconf/nodeconf-2011-curtis-chambers-5455813
+[37]: http://www.joyentcloud.com/resources/videos/node-js-office-hours-curtis-chambers-uber/
+[38]: http://www.joyentcloud.com/videocategories/nodejs/
