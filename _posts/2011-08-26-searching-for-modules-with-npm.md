@@ -2,13 +2,14 @@
 title: Searching for modules with npm
 author: George Ornbo
 layout: post
+excerpt: How to find node.js modules using the command line or the web
 tags:
 - npm
 ---
 
 The node.js community has many modules that you can use in your projects. But how do you find them?
 
-## Finding modules with npm
+### Finding modules with npm
 
 You can use the npm command line tool to search the registry using the command `npm search`.
 
@@ -59,7 +60,7 @@ If you want more information on a module you can use `npm info`. This returns in
       scripts: {} }
 
 
-## Finding modules via the web 
+### Finding modules via the web 
 
 There is also a [web based search tool][1] that lists some further information like the latest updates and the most depended on modules. This can be helpful for finding new modules and modules that are considered stable.
 

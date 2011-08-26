@@ -2,6 +2,7 @@
 title: The Author
 author: George Ornbo
 layout: post
+excerpt: Author details for Sams Teach Yourself node.js in 24 Hours
 tags:
 - author
 ---

@@ -2,11 +2,12 @@
 title: node.js resources
 author: George Ornbo
 layout: post
+excerpt: Useful resources for learning node.js development
 tags:
 - resources
 ---
 
-## Videos
+### Videos
 
 * [node.js by Ryan Dahl][33]
 * [Introduction to Node.js with Ryan Dahl][9]
@@ -20,7 +21,7 @@ tags:
 * [Being Uber with node][36]
 * [Node.js Meetup: Distributed Web Architectures - Curtis Chambers, Uber][37]
 
-## Blogs 
+### Blogs 
 
 * [How to Node][10]
 * [nodejitsu blog][11]
@@ -43,12 +44,12 @@ tags:
 
 These links are also available [as a bundle][28] that you can add directly to Google Reader
 
-## Podcasts
+### Podcasts
 
 * [Node Up][29]
 * [The JavaScript Show][30]
 
-## Books
+### Books
 
 * [The Node Beginner Book][1]
 * [Felix's Node.js Guide][2]
