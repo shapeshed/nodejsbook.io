@@ -36,6 +36,10 @@ tags:
 
 These links are also available [as a bundle][28] that you can add directly to Google Reader
 
+## Podcasts
+
+* [Node Up][29]
+
 ## Books
 
 * [The Node Beginner Book][1]
@@ -73,3 +77,4 @@ These links are also available [as a bundle][28] that you can add directly to Go
 [26]: http://io.kodfabrik.com/
 [27]: http://devthought.com/
 [28]: http://www.google.co.uk/reader/bundle/user%2F09921663692746895687%2Fbundle%2Fnodejs%20Reading%20List
+[29]: http://nodeup.com/
