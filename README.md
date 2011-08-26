@@ -4,7 +4,7 @@ This is the source code for the [nodejsbook.io][1] website. The site supports th
 
 The site uses [pop][2], a static site generator written in [node.js][3] by [Alex Young][4]
 
-[Code examples][5] for the book are available here.
+Code examples for the book are [available here][5].
 
 
 [1]: http://nodejsbook.io/
