@@ -3,5 +3,5 @@
  , "permalink": "/:title"
  , "perPage": 10
  , "exclude": ["\\.swp"]
- , "require": ["pop-disqus", "pop-ga"]
+ , "require": ["pop-disqus", "pop-ga", "sugar"]
  , "autoGenerate": [{"feed": "feed.xml", "rss": "feed.rss"}] }

@@ -2,6 +2,7 @@
 title: How to install node.js on Mac OSX
 author: George Ornbo
 layout: post
+excerpt: Instructions on how to install node.js on OSX
 tags:
 - installation
 - osx
@@ -16,7 +17,7 @@ On OSX you have three ways you can install node.js
 
 I recommend you install from homebrew.
 
-<h2 id="homebrew">Installing from hombrew (recommended)</h2>
+<h3 id="homebrew">Installing from hombrew (recommended)</h3>
 
 Homebrew is a package manager for OSX that makes installing software trivial. I strongly recommend that you use hombrew to install node.js and other software on OSX.
 
@@ -41,7 +42,7 @@ When new versions are released you can upgrade with:
 
     brew update && brew upgrade
 
-<h2 id="single-click">Installing from a single click installer</h2>
+<h3 id="single-click">Installing from a single click installer</h3>
 
 There is a single click installer available for node.js, maintained by Philipp Dunkel. This also installs [npm][8], node's package manager.
 
@@ -53,7 +54,7 @@ Then install node.js by double clicking the .pkg file. The installer will guide 
 
 ![node.js installation via .pkg file][6]
 
-<h2 id="source">Installing from source</h2>
+<h3 id="source">Installing from source</h3>
 
 You may wish to download and compile the source code. You will find the latest source available on the [node.js][4] site.
 
@@ -66,14 +67,14 @@ You may wish to download and compile the source code. You will find the latest s
     make
     sudo make install
 
-## Checking everything is ok
+### Checking everything is ok
 
 If everything is ok you should be able to type node at the command line and enter an interactive prompt.
 
     node
     >
 
-## Troubleshooting
+### Troubleshooting
 
 You may find that node is not in your path after installation
 
@@ -96,7 +97,7 @@ If you installed node to $HOME/local/node
 
 You should then find that node is in your PATH and works. 
 
-## Problems?
+### Problems?
 
 If you are still experiencing problems use the comments below. 
 

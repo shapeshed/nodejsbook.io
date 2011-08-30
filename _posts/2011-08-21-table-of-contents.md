@@ -2,6 +2,7 @@
 title: Table of contents
 author: George Ornbo
 layout: post
+excerpt: Table of contents for Sams Teach Yourself node.js in 24 Hours
 tags:
 - toc
 ---

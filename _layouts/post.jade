@@ -1,10 +1,15 @@
 !!! 5
 html(lang="en")
   head
-    title #{post.title}
+    title #{post.title} | node.js book
     link(href="/stylesheets/screen.css", media="screen", rel="stylesheet", type="text/css")
     link(rel="alternate", type="application/rss+xml", title="RSS 2.0", href="/feed.rss")
     link(rel="alternate", type="application/atom+xml", title="Atom Feed", href="/feed.xml")
+    meta(name="description", content="#{post.excerpt}")
+    -postDate = post.date.format('{yyyy}-{MM}-{dd}')
+    meta(name="dc.date.created", content="#{postDate}")
+    meta(name="author", content="George Ornbo")
+    meta(name="keywords", content="#{post.tags}")
     !{ga('UA-324369-26')}
   body
     header#header
