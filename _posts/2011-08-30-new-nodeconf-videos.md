@@ -19,7 +19,7 @@ Several new [2011 nodeconf][1] have just been made available.
 
 ## John Schulz
 
-[John Shhulz][4] of [nclud][6] talks about canvas and node.js.
+[John Schulz][4] of [nclud][6] talks about canvas and node.js.
 
 <iframe src="http://blip.tv/play/g_MngtCZTgI.html" width="480" height="346" frameborder="0" allowfullscreen></iframe>
 
