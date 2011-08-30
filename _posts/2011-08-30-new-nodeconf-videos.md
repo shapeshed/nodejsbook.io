@@ -21,7 +21,7 @@ Several new [2011 nodeconf][1] have just been made available.
 
 [John Shhulz][4] talks about canvas and node.js.
 
-<iframe src="http://blip.tv/play/g_mngtcztgi.html" width="480" height="346" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://blip.tv/play/g_MngtCYdgI.html" width="480" height="346" frameborder="0" allowfullscreen></iframe>
 
 ## Robert Kieffer
 
