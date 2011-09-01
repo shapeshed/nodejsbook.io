@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Community Powered Documentation for node.js
-author: george
+author: George Ornbo
 tags:   
 - documentation
 - nodejitsu
