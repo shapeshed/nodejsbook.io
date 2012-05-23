@@ -45,7 +45,7 @@ tags:
     * Display Data In The View Layer
 * Chapter 8: Persisting data 
     * Read Data From A File
-    * Write Data From A File 
+    * Write Data To A File 
     * Read Environment Variables 
     * Store Data With MongoDB
     * Create A CRUD (Create, Read, Edit, Delete) Application With Express And MongoDB
