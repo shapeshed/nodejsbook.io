@@ -68,7 +68,7 @@ tags:
     * Deploy Cloud Foundry
     * Deploy To Nodester
 
-## Part IV: Intermediate sites with Node.js
+## Part IV: Intermediate Sites With Node.js
 * Chapter 12: Introducting Socket.IO
     * What Socket.IO Is And How You Can Use It 
     * Connect Clients To A Socket.IO Enabled Node.js Server
