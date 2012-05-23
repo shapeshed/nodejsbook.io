@@ -7,7 +7,7 @@ tags:
 - toc
 ---
 
-## Part I: Installation and setup
+## Part I: Getting Started 
 * Chapter 1: Introducing Node.js 
     * What Is Node.js?
     * What You Can Do With Node.js
@@ -25,11 +25,11 @@ tags:
     * Different Approaches To Concurrency
 * Chapter 4: Callbacks
     * What Callbacks Are And How They Are Used In JavaScript
-    * How Callbakcs Are Used In Node.js
+    * How Callbacks Are Used In Node.js
     * The Difference Between Synchronous And Asynchronous Programming
     * What An Event Loop Is
 
-## Part II: Basic websites with Node.js
+## Part II: Basic Websites With Node.js
 * Chapter 5: HTTP
     * Create A Basic HTTP Server
     * Make A Server Respond To Different Requests
@@ -86,7 +86,7 @@ tags:
     * Parse Data Received From Twitter's Streaming API
     * Push Third-Party Data Out To Clients In Real-Time 
     * Create A Real-Time Graph
-    * Whether There Is More Love Or Hate In The World According To Twitter
+    * Whether There Is More Love Or Hate In The World 
 * Chapter 15: JSON APIs 
     * What An API Is 
     * What JSON Is And How You Can Use It With Node.js
@@ -120,7 +120,7 @@ tags:
     * Creating A Writeable Steam
     * Piping Data Between Readable And Writeable Streams
 
-## Part VI: Further Node.js development
+## Part VI: Further Node.js Development
 * Chapter 21: CoffeeScript
     * What CoffeeScript Is And How You Can Use It 
     * What CoffeeScript Offers Over Native JavaScript 
